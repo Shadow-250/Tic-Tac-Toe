@@ -4,7 +4,7 @@ Pygame with AI :V
 #### Sure your computer installed python 3.6 or higher
 #### Running
 ```bash
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 $ python runner.py
 ```
 ## Now Playing for fun :V
